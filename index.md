@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# Devin V. Tark
+# Devin Tark
 Software Engineer
 
 <div id="webaddress">
@@ -20,9 +20,8 @@ Software Engineer
 </div>
 
 
-## Currentlys
-
-I'm a Bioinformatics Scientist at [Illumina](http://www.illumina.com/), based at their R&D site near Cambridge, UK. Here I develop software and use data science, machine learning and statistical programming to analyse large volumes of high-throughput sequencing data.
+## Currently
+Recently separated U.S. Army veteran and graduate student at the University of Illinois at Urbana Champaign. Seeking full-time roles in software engineering beginning January 2021.
 
 {:.resheader}
 ## Education
