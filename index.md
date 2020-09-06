@@ -8,7 +8,7 @@
 layout: home
 ---
 
-# Devin Tark
+# Devin V. Tark
 Software Engineer
 
 <div id="webaddress">
