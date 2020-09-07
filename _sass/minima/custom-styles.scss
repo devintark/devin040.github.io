@@ -5,5 +5,42 @@
 }
 
 code {
-    color:  #FF4136
+    color:  salmon;
+}
+
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.res{
+    flex-grow: 5;
+    flex-basis: 95%;
+}
+
+.pic{
+    flex-shrink: 5;
+}
+
+#profpic {
+    width: 100%;
+    height: auto;
+    border-radius: 50%;
+}
+
+.fab, .fas{
+    color: salmon;
+}
+
+.pfimg{
+    padding-top:10px
+}
+
+#cm {
+    width: 75%;
+    height: 75%;
+    margin: auto
 }

@@ -9,8 +9,6 @@ layout: home
 title: Résumé
 ---
 
-# Devin V. Tark
-Software Engineer
 
 <div id="webaddress">
 <i class="fa fa-paper-plane"></i> <a href="mailto:devin.tark@gmail.com">devin.tark@gmail.com</a>
@@ -20,6 +18,7 @@ Software Engineer
 <i class="fa fa-linkedin"></i> <a href="http://linkedin.com/in/devintark">devintark</a>
 </div>
 
+<br/>
 
 ## Currently
 Recently separated U.S. Army veteran and graduate student at the University of Illinois at Urbana Champaign. Seeking full-time roles in software engineering beginning January 2021.
@@ -37,6 +36,14 @@ Computer Programming Certificate | GPA 3.3
 `Aug 2010 - May 2014`
 __Cornell University__  
  B.A. History | GPA 3.5
+
+{:.resheader}
+## Languages & Technologies
+
+__Proficient__: Java <i class="fab fa-java"></i>, Python <i class="fab fa-python"></i>, Javascript (React, NodeJs) <i class="fab fa-js-square"></i>, SQL <i class="fas fa-database"></i>, MongoDB <i class="fab fa-envira"></i>, HTML/CSS <i class="fab fa-html5"></i>, Git <i class="fab fa-git-alt"></i>, Windows <i class="fab fa-windows"></i>, Linux  <i class="fab fa-linux"></i>
+
+__Familiar__: C++, C, AWS, Cisco Networking, LaTeX
+
 
 {:.resheader}
 ## Employment
@@ -62,89 +69,56 @@ Jr. Network & Systems Engineer | Eighth Army Intelligence
 * Managed five networks at various classification levels to serve over 100 users in austere conditions
 * Headed desk-side technical support for hardware and software issues to senior intelligence staff
 
-{:.resheader}
-## Technical skills
-
-* R
-* Python
-* Javascript (incl. Typescript, Angular)
-* Go
-* HTML and CSS
-* LaTeX
-* Bash
-* Git / Mercurial
-* UNIX
-* Cluster computing
-* Docker
-* AWS
-
-## Areas of expertise
-
-* Bioinformatics
-* Statistics
-* Machine learning
-* Data visualisation
-* Software development
-* NGS and variant calling
 
 {:.resheader}
 ## Projects
 
+### Diplomacy - *WIP* [Source Code](https://github.com/devin040/web-diplomacy)
+* A web-based implementation of the classic board game [Diplomacy](https://en.wikipedia.org/wiki/Diplomacy_(game)).
+* Inspired by wanting to play the game with friends but being separated due to COVID-19 restrictions.
+* Uses NodeJs/Express, React, MongoDB. Hosted on Heroku.
+![Diplomacy](/assets/dip1.png){:.pfimg}
+
+### Battuta - Multi-city Flight Search Engine  [Source Code](https://github.com/devin040/battuta)
+*Team Lead*
+
+* A web based search-engine for finding the optimal (cost) permutation of multi-city flights
+* Led a team of 4 for this course-based project, inspired by manually searching flight combinations when travelling in S.E. Asia
+* I wrote the SQL procedures, the web scrapers, and the Express routes.
+![Battuta](/assets/battuta.png){:.pfimg}
+
+### Text Message Sentiment Analysis [Source Code](https://github.com/devin040/messageSA)
+* Summer hobby project in __Python__ building on an AI class project for sentiment analysis
+* Compared manual Naive Bayes to the SciPy Classifier library functions for analyzing 70k text messages with my girlfriend
+* Put the project on hold when an early iteration found that she sent more positive texts than I, making her angry at me.
+![Confusion Matrix](https://raw.githubusercontent.com/devin040/messageSA/master/results/cm.png){:.pfimg #cm}
+
+### DNA Motif Finding [Source Code](https://github.com/gowthamkuntumalla/Motif_Finding_DNA)
+* Class-based team project in Data Mining
+* Python implementation of the MEME (Expectation Maximization) algorithm described in this [paper](https://raw.githubusercontent.com/gowthamkuntumalla/Motif_Finding_DNA/master/Research/Bailey%20Elkan%201994.pdf)
+* Wrote the portions of the program responsible for generating pseudo-random DNA sequences and for predicting Motif sites based on the MEME algorithm
+
+### iRobot [Source Code](https://github.com/devin040/cs424-iRobot)
+* Programmed a RaspberryPi utilizing the OpenInterface library to control a roomba robot
+* Handled navigation, image processing, proportional controller, and mapping
+* Utilized: C++, RaspberryPi, Linux (Raspbian), threading, controllers, real-time sensors
+
 ### github
 
-My [personal github account](https://github.com/blmoore) hosts my hobby development projects as well as listing contributions to open source tools. Examples include: shiny apps [blackspot](https://github.com/blmoore/blackspot) and [shinybrot](https://github.com/blmoore/shinybrot), as well as an R package hosted by CRAN ([mandelbrot](https://github.com/blmoore/mandelbrot)).
+My [personal github account](https://github.com/devin040) hosts my hobby development projects as well as some projects for school.
 
-### blog
 
-I write a data science blog at [blm.io](http://blm.io/blog) where I apply R and Python to open datasets and write-up the results. My posts have been featured by sites including FiveThirtyEight, BuzzFeed, AVclub, io9 and more, and also led to being an invited blogger at the Huffington Post. My original wordpress blog ([benjaminlmoore.wordpress.com](http://benjaminlmoore.wordpress.com)) has received over 150,000 unique visitors from 180 countries.
+## Publications
 
-### EdinbR
+A [paper](https://ecommons.cornell.edu/handle/1813/47942) I wrote in undergrad that was published in Cornell's Student History Journal. Examines the role that poor housing policy has on creating an underclass.
 
-I co-founded a usergroup for the R programming language in Edinburgh called EdinbR. I helped to organise our monthly meetings and built our website: [edinbr.org](http://edinbr.org). Our meetings attract 30-50 statisticians, data scientists and developers for talks and discussion about the R language and its applications. We're sponsored by Revolution Analytics and have an organisational github account at [github.com/EdinbR](https://github.com/EdinbR).
-
-### datarea
-
-I entered Imperial College's [Summer Data Challenge](https://www.imperial.ac.uk/data-science/education/summer-data-challenge/) competition, where entrants analysed a given dataset and then proposed a startup idea based on their results. I developed a modelling technique to select housing areas for investment and was awarded third place: £2,000 and startup support from Imperial Create Lab. My entry can be seen at [blm.io/datarea](http://blm.io/datarea) and the code is shared on my github account.
-
-## Awards
-
-MRC Capacity building scholarship (PhD fees + enhanced stipend)
-
-MRC Full postgraduate scholarship (MSc fees + stipend)
-
-ISCB computational biology Wikipedia competition 2013 ([doi:10.1371/journal.pcbi.1003242](http://dx.doi.org/10.1371/journal.pcbi.1003242); 2nd place)
-
-Imperial Create Lab's "Summer data challenge" ([summerdatachallenge.com](http://summerdatachallenge.com); 3rd place)
-
-Individual engagement grant from the Wikimedia Foundation to attend ISMB 2014
-
-Training accreditation for Wikimedia UK, the national chapter of the Wikimedia Foundation
-
-Front cover design selected for J. Comp. Chem. (34:22) ([doi:10.1002/jcc.23388](http://dx.doi.org/10.1002/jcc.23388))
-
-## Placements
-
-`2010-11`
-__Wellcome Trust Sanger Institute__ (_Cambridge, UK_)
-Worked for two summers on the Rfam database ([rfam.xfam.org](http://rfam.xfam.org)) in the Bateman group
 
 
 ## Links
 
-<!-- fa are fontawesome, ai are academicons -->
-* <i class="fa fa-envelope"></i> <a href="mailto:ben@blm.io">ben@blm.io</a><br />
-* <i class="fa fa-github"></i> <a href="http://github.com/blmoore">blmoore</a><br />
-* <i class="fa fa-twitter"></i> <a href="http://twitter.com/benjaminlmoore">benjaminlmoore</a><br />
-* <i class="fa fa-linkedin"></i> <a href="https://www.linkedin.com/in/blmoore/">LinkedIn</a>
-* <i class="fa fa-stack-overflow"></i> <a href="http://stackoverflow.com/users/1274516/blmoore">StackOverflow</a>
-* <i class="fa fa-wikipedia"></i> <a href="https://en.wikipedia.org/wiki/User:Ben_Moore">Wikipedia Userpage</a><br />
-* <i class="ai ai-google-scholar"></i> <a href="http://scholar.google.com/citations?user=YMxsGpsAAAAJ">Google scholar</a>
-* <i class="ai ai-orcid"></i> <a href="https://orcid.org/0000-0002-4074-1933">ORCiD</a>
-* <i class="ai ai-figshare"></i> <a href="https://figshare.com/authors/Benjamin_Moore/99461">figshare</a>
+In the footer!
 
-## References
-
-Available on request.
+<!--Container-->
 
 <!-- ### Footer
 
