@@ -25,6 +25,21 @@ code {
     flex-shrink: 5;
 }
 
+@media only screen and (max-width: 600px){
+    .container{
+        flex-direction: column;
+    }
+
+    .res{
+        order: 2
+    }
+
+    .pic{
+        order: 1;
+    }
+}
+
+
 #profpic {
     width: 100%;
     height: auto;
