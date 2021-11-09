@@ -42,7 +42,7 @@ __Cornell University__
 
 __Proficient__: Java <i class="fab fa-java"></i>, Spring-boot, Kotlin, Python <i class="fab fa-python"></i>, Javascript/Typescript (React, NodeJs) <i class="fab fa-js-square"></i>, SQL <i class="fas fa-database"></i>, Docker, MongoDB <i class="fab fa-envira"></i>, HTML/CSS <i class="fab fa-html5"></i>, Git <i class="fab fa-git-alt"></i>, Windows <i class="fab fa-windows"></i>, Linux  <i class="fab fa-linux"></i>
 
-__Familiar__: C++, C, AWS, Terrform, Cisco Networking, LaTeX
+__Familiar__: C++, C, AWS, Terraform, Cisco Networking, LaTeX
 
 
 {:.resheader}
