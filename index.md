@@ -13,7 +13,7 @@ title: About Me
 <div id="webaddress">
 <i class="fa fa-paper-plane"></i> <a href="mailto:devin.tark@gmail.com">devin.tark@gmail.com</a>
 |
-<i class="fa fa-github"></i> <a href="http://github.com/devin040">devin040</a>
+<i class="fa fa-github"></i> <a href="http://github.com/devintark">devintark</a>
 |
 <i class="fa fa-linkedin"></i> <a href="http://linkedin.com/in/devintark">devintark</a>
 </div>
@@ -21,7 +21,7 @@ title: About Me
 <br/>
 
 ## Currently
-Recently separated U.S. Army veteran and graduate student at the University of Illinois at Urbana Champaign. Seeking full-time roles in software engineering beginning January 2021.
+I am a full stack engineer in a primarily backend focused role at a mental health care technology company.
 
 {:.resheader}
 ## Education
@@ -40,13 +40,21 @@ __Cornell University__
 {:.resheader}
 ## Languages & Technologies
 
-__Proficient__: Java <i class="fab fa-java"></i>, Python <i class="fab fa-python"></i>, Javascript (React, NodeJs) <i class="fab fa-js-square"></i>, SQL <i class="fas fa-database"></i>, MongoDB <i class="fab fa-envira"></i>, HTML/CSS <i class="fab fa-html5"></i>, Git <i class="fab fa-git-alt"></i>, Windows <i class="fab fa-windows"></i>, Linux  <i class="fab fa-linux"></i>
+__Proficient__: Java <i class="fab fa-java"></i>, Spring-boot, Kotlin, Python <i class="fab fa-python"></i>, Javascript/Typescript (React, NodeJs) <i class="fab fa-js-square"></i>, SQL <i class="fas fa-database"></i>, Docker, MongoDB <i class="fab fa-envira"></i>, HTML/CSS <i class="fab fa-html5"></i>, Git <i class="fab fa-git-alt"></i>, Windows <i class="fab fa-windows"></i>, Linux  <i class="fab fa-linux"></i>
 
-__Familiar__: C++, C, AWS, Cisco Networking, LaTeX
+__Familiar__: C++, C, AWS, Terrform, Cisco Networking, LaTeX
 
 
 {:.resheader}
 ## Employment
+
+`January 2021 - Present`  
+__Quartet Health__ *New York, NY*
+* Developed, maintained, and improved upon a Spring-boot powered API service for a health platform
+* Designed and optimized PostgreSQL queries, cutting transaction times by as much as 80%
+* Developed and tested AWS lambda expression to ingest CSV files upon receipt and consume by the API
+* Identified, investigated, and resolved bugs in production; added to on-call rotation within 3 months
+* Managed, coached, mentored a summer intern; onboarded, assigned tasks, professionally developed.
 
 `Jul 2018 - Aug 2019`  
 __United States Army__ *Fort Polk, LA*  
