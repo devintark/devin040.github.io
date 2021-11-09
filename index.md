@@ -113,7 +113,7 @@ Jr. Network & Systems Engineer | Eighth Army Intelligence
 
 ### github
 
-My [personal github account](https://github.com/devin040) hosts my hobby development projects as well as some projects for school.
+My [personal github account](https://github.com/devintark) hosts my hobby development projects as well as some projects for school.
 
 
 ## Publications
